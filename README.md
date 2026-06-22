@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently working on Kissan Dost, Trovio, and Medibot: [devxyn.com](http://devxyn.com/)<br>I’m currently learning AI/ML<br>I’m looking to collaborate on SaaS Products: [devxyn.com](http://devxyn.com/)<br>I’m looking for help with AI Automations: [devxyn.com](http://devxyn.com/)<br>All of my projects are available at https://awaisdevx.netlify.app/<br>Ask me about React, WordPress, and Python<br>How to reach me: muhammadawaisghafoor98@gmail.com<br><br>
+I’m currently working on Kissan Dost, Trovio, and Medibot: [devxyn.com](http://devxyn.com/)<br>I’m currently learning AI/ML<br>I’m looking to collaborate on SaaS Products: [devxyn.com](http://devxyn.com/)<br>I’m looking for help with AI Automations: [devxyn.com](http://devxyn.com/)<br>All of my projects are available at https://awais.devxyn.com/<br>Ask me about React, WordPress, and Python<br>How to reach me: muhammadawaisghafoor98@gmail.com<br><br>
 
 
 ##  Socials:
