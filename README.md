@@ -83,7 +83,7 @@ Job search aggregator pulling live listings from **16+ platforms** into one unif
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/Job shield post1.png" width="100%" alt="JobShield preview" />
+<img src="./assets/jobshield.png" width="100%" alt="JobShield preview" />
 
 ### 🛡️ JobShield — AI-Powered Job Scam Detection
 Analyzes job listings in seconds via a multi-layer AI + heuristic pattern-matching pipeline, with blockchain verification to expose fake recruiters and scams.
