@@ -155,6 +155,6 @@ Currently building — check [devxyn.com](http://devxyn.com/) for updates.
 <img src="./assets/trophies.svg" width="100%" alt="achievements" />
 </div>
 <div align="center"> 
-**Thanks for stopping by — let's build something great together! 💜**
+****Thanks for stopping by — let's build something great together! 💜****
 </div>
 
