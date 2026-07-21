@@ -111,9 +111,8 @@ Health-focused AI chatbot agent supporting patients and general users with healt
 
 <img src="./assets/kissandost.png.jpeg" width="100%" alt="Kissan Dost preview" />
 
-### 🌾 Kissan Dost
-**Digital Revolution for Farmers**
-Collaborated at: takhleeq.co](https://takhleeq.co/)
+### 🌾 Kissan Dost — Digital Revolution for Farmers
+Collaborated at: [takhleeq.co](https://takhleeq.co/) <br/>
 Empowering farmers with accurate information, solving daily agricultural problems, and eliminating middleman exploitation to boost Pakistan's agriculture.
 <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square&logo=progress" />
 
