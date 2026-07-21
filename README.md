@@ -85,7 +85,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/Trovio.png.jpeg" width="100%" alt="Trovio preview" />
+<img src="./assets/Trovio.jpg" width="100%" alt="Trovio preview" />
 
 ### 🎯 Trovio — AI-Powered Career Intelligence Platform
 Job search aggregator pulling live listings from **16+ platforms** into one unified interface, with AI resume match scoring, a skill-demand radar, and AI-generated cover letters.
