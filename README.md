@@ -159,11 +159,3 @@ Currently building — check [devxyn.com](http://devxyn.com/) for updates.
 **Thanks for stopping by — let's build something great together! 💜**
  
 </div>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AWAIS0335&color=6366F1&style=flat-square)](https://visitcount.itsvg.in)
-
-**Thanks for stopping by — let's build something great together! 💜**
-
-</div>
