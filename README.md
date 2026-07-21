@@ -113,7 +113,7 @@ Health-focused AI chatbot agent supporting patients and general users with healt
 
 ### 🌾 Kissan Dost — Digital Revolution for Farmers
 Collaborated at: [takhleeq.co](https://takhleeq.co/) <br/>
-Empowering farmers with accurate information, solving daily agricultural problems, and eliminating middleman exploitation to boost Pakistan's agriculture.
+Empowering farmers with accurate information, solving daily agricultural problems, and eliminating middleman exploitation to boost Pakistan's agriculture.<br/>
 <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square&logo=progress" />
 
 Currently building — check [devxyn.com](http://devxyn.com/) for updates.
@@ -124,24 +124,6 @@ Currently building — check [devxyn.com](http://devxyn.com/) for updates.
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-<img src="./assets/medibot.png" width="100%" alt="Medibot preview" />
-
-### 🤖 Medibot
-<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square&logo=progress" />
-
-Currently building — check [devxyn.com](http://devxyn.com/) for updates.
-
-`Python` `FastAPI` `RAG`
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-More projects on my [Portfolio](https://awais.devxyn.com/) and [LinkedIn](https://www.linkedin.com/in/muhammad-awais-28877636a) →
-
-</td>
 </tr>
 </table>
 
