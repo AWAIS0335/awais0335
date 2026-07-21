@@ -43,44 +43,30 @@
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" />
-
-<br/><br/>
-
+<br/>
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui&theme=dark" />
-
-<br/><br/>
-
+<br/>
 **Backend & APIs**
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
-
-<br/><br/>
-
+<br/>
 **AI / ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark" />
 <img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" />
-
-<br/><br/>
-
+<br/>
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase&theme=dark" />
-
-<br/><br/>
-
+<br/>
 **Tools & Design**
 <br/>
 <img src="https://skillicons.dev/icons?i=github,wordpress,figma,vercel,netlify&theme=dark" />
-
 </div>
-
 <br/>
-
 ## 🚧 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
