@@ -92,7 +92,7 @@ Job search aggregator pulling live listings from **16+ platforms** into one unif
 
 `Python` `React.js` `API Integrations` `AI/ML`
 
-[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](http://devxyn.com/)
+[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](http://trovio.devxyn.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -104,7 +104,7 @@ Analyzes job listings in seconds via a multi-layer AI + heuristic pattern-matchi
 
 `Python` `AI/ML` `React.js` `NLP` `Model Training`
 
-[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](http://devxyn.com/)
+[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](http://jobshield.devxyn.com/)
 
 </td>
 </tr>
@@ -118,7 +118,7 @@ Health-focused AI chatbot agent supporting patients and general users with healt
 
 `RAG` `NLP` `AI Agents`
 
-[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](http://devxyn.com/)
+[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](http://medihealth.devxyn.com/)
 
 </td>
 <td width="50%" valign="top">
