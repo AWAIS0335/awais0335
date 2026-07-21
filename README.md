@@ -145,10 +145,19 @@ Currently building — check [devxyn.com](http://devxyn.com/) for updates.
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AWAIS0335&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-<br/><br/>
+<br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AWAIS0335&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
-
+</div>
+## 🏆 Achievements
+ 
+<div align="center">
+<img src="./assets/trophies.svg" width="100%" alt="achievements" />
+</div>
+<div align="center">
+[![Profile Views](https://komarev.com/ghpvc/?username=AWAIS0335&color=6366F1&style=flat-square)](https://visitcount.itsvg.in)
+ 
+**Thanks for stopping by — let's build something great together! 💜**
+ 
 </div>
 
 <div align="center">
