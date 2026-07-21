@@ -85,7 +85,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/trovio.png" width="100%" alt="Trovio preview" />
+<img src="./assets/Trovio.png.jpeg" width="100%" alt="Trovio preview" />
 
 ### 🎯 Trovio — AI-Powered Career Intelligence Platform
 Job search aggregator pulling live listings from **16+ platforms** into one unified interface, with AI resume match scoring, a skill-demand radar, and AI-generated cover letters.
@@ -97,7 +97,7 @@ Job search aggregator pulling live listings from **16+ platforms** into one unif
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/jobshield.png" width="100%" alt="JobShield preview" />
+<img src="./assets/Job shield post1.png" width="100%" alt="JobShield preview" />
 
 ### 🛡️ JobShield — AI-Powered Job Scam Detection
 Analyzes job listings in seconds via a multi-layer AI + heuristic pattern-matching pipeline, with blockchain verification to expose fake recruiters and scams.
@@ -111,7 +111,7 @@ Analyzes job listings in seconds via a multi-layer AI + heuristic pattern-matchi
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/medihealth.png" width="100%" alt="Medi-Health Guide preview" />
+<img src="./assets/medihealth.avif" width="100%" alt="Medi-Health Guide preview" />
 
 ### 🩺 Medi-Health Guide — AI/ML, RAG, NLP
 Health-focused AI chatbot agent supporting patients and general users with health-related queries, built with clear CTAs and an SEO-friendly structure.
@@ -123,7 +123,7 @@ Health-focused AI chatbot agent supporting patients and general users with healt
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/kissandost.png" width="100%" alt="Kissan Dost preview" />
+<img src="./assets/kissandost.png.jpeg" width="100%" alt="Kissan Dost preview" />
 
 ### 🌾 Kissan Dost
 <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square&logo=progress" />
