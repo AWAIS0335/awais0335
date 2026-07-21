@@ -1,0 +1,80 @@
+<svg width="420" height="640" viewBox="0 0 420 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="strap" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1b3a"/>
+      <stop offset="100%" stop-color="#2d1b4e"/>
+    </linearGradient>
+    <linearGradient id="avatarGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="nameGrad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f9a8d4"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Pendulum group: pivots around the strap anchor point (210, 30) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="-5 210 30; 5 210 30; -5 210 30"
+      keyTimes="0; 0.5; 1"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"
+      calcMode="spline"
+      dur="4.5s" repeatCount="indefinite"/>
+
+    <!-- strap -->
+    <path d="M 200 0 L 224 0 L 234 260 Q 210 280 186 260 Z" fill="url(#strap)"/>
+    <text x="212" y="140" font-family="Segoe UI, sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle" transform="rotate(90 212 140)" opacity="0.85">AWAIS.DEV ♥ CODE ♥ AWAIS.DEV</text>
+
+    <!-- clip -->
+    <rect x="188" y="255" width="44" height="18" rx="4" fill="#9ca3af"/>
+    <circle cx="210" cy="282" r="12" fill="none" stroke="#9ca3af" stroke-width="5"/>
+
+    <!-- card -->
+    <g filter="url(#cardShadow)">
+      <rect x="60" y="290" width="300" height="330" rx="22" fill="url(#cardBg)" stroke="#c084fc" stroke-width="2"/>
+    </g>
+
+    <text x="84" y="326" font-family="Menlo, Consolas, monospace" font-size="11" fill="#a78bfa" letter-spacing="1">DEVELOPER ID</text>
+    <text x="336" y="326" font-family="Menlo, Consolas, monospace" font-size="11" fill="#a78bfa" text-anchor="end">MA-2026</text>
+
+    <!-- avatar -->
+    <circle cx="210" cy="400" r="55" fill="url(#avatarGrad)"/>
+    <circle cx="210" cy="400" r="55" fill="none" stroke="#f0abfc" stroke-width="2" opacity="0.6"/>
+    <text x="210" y="415" font-family="Segoe UI, sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">MA</text>
+
+    <text x="210" y="490" font-family="Brush Script MT, Segoe Script, cursive" font-size="32" fill="url(#nameGrad2)" text-anchor="middle">Muhammad Awais</text>
+    <text x="210" y="514" font-family="Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#e9d5ff" text-anchor="middle" letter-spacing="1.5">FULL-STACK &amp; AI/ML DEVELOPER</text>
+    <text x="210" y="536" font-family="Menlo, Consolas, monospace" font-size="12" fill="#a78bfa" text-anchor="middle">@AWAIS0335</text>
+
+    <!-- barcode -->
+    <g fill="#e9d5ff">
+      <rect x="84" y="570" width="2" height="30"/>
+      <rect x="90" y="570" width="4" height="30"/>
+      <rect x="98" y="570" width="2" height="30"/>
+      <rect x="104" y="570" width="3" height="30"/>
+      <rect x="112" y="570" width="2" height="30"/>
+      <rect x="118" y="570" width="5" height="30"/>
+      <rect x="128" y="570" width="2" height="30"/>
+      <rect x="134" y="570" width="3" height="30"/>
+      <rect x="142" y="570" width="2" height="30"/>
+      <rect x="148" y="570" width="4" height="30"/>
+      <rect x="156" y="570" width="2" height="30"/>
+      <rect x="162" y="570" width="3" height="30"/>
+    </g>
+
+    <text x="336" y="580" font-family="Segoe UI, sans-serif" font-size="10" fill="#a78bfa" text-anchor="end">Python</text>
+    <text x="336" y="595" font-family="Segoe UI, sans-serif" font-size="10" fill="#a78bfa" text-anchor="end">React</text>
+    <text x="336" y="610" font-family="Segoe UI, sans-serif" font-size="10" fill="#a78bfa" text-anchor="end">RAG</text>
+  </g>
+
+  <text x="210" y="636" font-family="Segoe UI, sans-serif" font-size="10" fill="#c4b5fd" text-anchor="middle" font-style="italic" opacity="0.7">— drag me... just kidding, I'm an SVG ♥ —</text>
+</svg>
