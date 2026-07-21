@@ -37,7 +37,7 @@
 
   <!-- Card 1 -->
   <g transform="translate(30,60)">
-    <animateTransform attributeName="transform" type="translate" values="30,60; 30,52; 30,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.2s" begin="0s" repeatCount="indefinite" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate" values="30,60; 30,52; 30,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.2s" begin="0s" repeatCount="indefinite"/>
     <rect width="180" height="150" rx="16" fill="#ffffff" stroke="#f0d9ec" stroke-width="1.5" filter="url(#tsoft)"/>
     <g transform="translate(90,52)">
       <path d="M -24 -20 Q -24 10 0 14 Q 24 10 24 -20 Z" fill="url(#cupGrad1)"/>
@@ -52,7 +52,7 @@
 
   <!-- Card 2 -->
   <g transform="translate(225,60)">
-    <animateTransform attributeName="transform" type="translate" values="225,60; 225,52; 225,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.6s" begin="0.4s" repeatCount="indefinite" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate" values="225,60; 225,52; 225,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.6s" begin="0.4s" repeatCount="indefinite"/>
     <rect width="180" height="150" rx="16" fill="#ffffff" stroke="#f0d9ec" stroke-width="1.5" filter="url(#tsoft)"/>
     <g transform="translate(90,52)">
       <path d="M -24 -20 Q -24 10 0 14 Q 24 10 24 -20 Z" fill="url(#cupGrad2)"/>
@@ -67,7 +67,7 @@
 
   <!-- Card 3 -->
   <g transform="translate(420,60)">
-    <animateTransform attributeName="transform" type="translate" values="420,60; 420,52; 420,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.0s" begin="0.8s" repeatCount="indefinite" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate" values="420,60; 420,52; 420,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.0s" begin="0.8s" repeatCount="indefinite"/>
     <rect width="180" height="150" rx="16" fill="#ffffff" stroke="#f0d9ec" stroke-width="1.5" filter="url(#tsoft)"/>
     <g transform="translate(90,52)">
       <path d="M -24 -20 Q -24 10 0 14 Q 24 10 24 -20 Z" fill="url(#cupGrad3)"/>
@@ -82,7 +82,7 @@
 
   <!-- Card 4 -->
   <g transform="translate(615,60)">
-    <animateTransform attributeName="transform" type="translate" values="615,60; 615,52; 615,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.4s" begin="1.2s" repeatCount="indefinite" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate" values="615,60; 615,52; 615,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.4s" begin="1.2s" repeatCount="indefinite"/>
     <rect width="180" height="150" rx="16" fill="#ffffff" stroke="#f0d9ec" stroke-width="1.5" filter="url(#tsoft)"/>
     <g transform="translate(90,52)">
       <path d="M -24 -20 Q -24 10 0 14 Q 24 10 24 -20 Z" fill="url(#cupGrad4)"/>
@@ -97,7 +97,7 @@
 
   <!-- Card 5 -->
   <g transform="translate(810,60)">
-    <animateTransform attributeName="transform" type="translate" values="810,60; 810,52; 810,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.8s" begin="1.6s" repeatCount="indefinite" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate" values="810,60; 810,52; 810,60" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.8s" begin="1.6s" repeatCount="indefinite"/>
     <rect width="160" height="150" rx="16" fill="#ffffff" stroke="#f0d9ec" stroke-width="1.5" filter="url(#tsoft)"/>
     <g transform="translate(80,52)">
       <path d="M -24 -20 Q -24 10 0 14 Q 24 10 24 -20 Z" fill="url(#cupGrad5)"/>
