@@ -151,11 +151,11 @@ Empowering farmers with accurate information, solving daily agricultural problem
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=AWAIS0335&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api?username=AWAIS0335&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="480" />
 
-<img src="https://streak-stats.demolab.com/?user=AWAIS0335&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=AWAIS0335&theme=tokyonight&hide_border=true" width="480" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AWAIS0335&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AWAIS0335&layout=compact&theme=tokyonight&hide_border=true" width="480" />
 
 </div>
 
