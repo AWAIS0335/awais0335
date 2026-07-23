@@ -85,7 +85,7 @@
 
 ### 🎯 Trovio — AI-Powered Career Intelligence Platform
 
-<img src="./assets/Trovio.jpg" width="100%" alt="Trovio preview" />
+<img src="./assets/Trovio.jpg" width="650" alt="Trovio preview" />
 
 Job search aggregator pulling live listings from **16+ platforms** into one unified interface, with AI resume match scoring, a skill-demand radar, and AI-generated cover letters.
 
@@ -97,7 +97,7 @@ Job search aggregator pulling live listings from **16+ platforms** into one unif
 
 ### 🛡️ JobShield — AI-Powered Job Scam Detection
 
-<img src="./assets/jobshield.png" width="100%" alt="JobShield preview" />
+<img src="./assets/jobshield.png" width="650" alt="JobShield preview" />
 
 Analyzes job listings in seconds via a multi-layer AI + heuristic pattern-matching pipeline, with blockchain verification to expose fake recruiters and scams.
 
@@ -109,7 +109,7 @@ Analyzes job listings in seconds via a multi-layer AI + heuristic pattern-matchi
 
 ### 🩺 Medi-Health Guide — AI/ML, RAG, NLP
 
-<img src="./assets/medihealth.avif" width="100%" alt="Medi-Health Guide preview" />
+<img src="./assets/medihealth.avif" width="650" alt="Medi-Health Guide preview" />
 
 Health-focused AI chatbot agent supporting patients and general users with health-related queries, built with clear CTAs and an SEO-friendly structure.
 
@@ -121,7 +121,7 @@ Health-focused AI chatbot agent supporting patients and general users with healt
 
 ### 🌾 Kissan Dost — Digital Revolution for Farmers
 
-<img src="./assets/kissandost.png.jpeg" width="100%" alt="Kissan Dost preview" />
+<img src="./assets/kissandost.png.jpeg" width="650" alt="Kissan Dost preview" />
 
 Collaborated at: [takhleeq.co](https://takhleeq.co/)
 Empowering farmers with accurate information, solving daily agricultural problems, and eliminating middleman exploitation to boost Pakistan's agriculture.
