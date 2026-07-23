@@ -24,8 +24,6 @@
 
 ### 👋 About Me
 
-<img align="right" width="180" src="./assets/badge.svg">
-
 - 🚀 Currently building **Kissan Dost**, **Trovio**, and **Medibot** → [devxyn.com](http://devxyn.com/)
 - 🧠 Currently learning **AI / Machine Learning** and deepening my RAG pipeline skills
 - 🤝 Open to collaborating on **SaaS products** and **AI Automation** projects
@@ -34,7 +32,13 @@
 - 📫 Reach me at **muhammadawaisghafoor98@gmail.com**
 - 🌐 All projects: [awais.devxyn.com](https://awais.devxyn.com/)
 
-<br clear="right"/>
+<div align="center">
+
+<img width="220" src="./assets/badge.svg" alt="developer badge" />
+
+</div>
+
+<br/>
 
 ### 🛠️ Tech Stack
 
