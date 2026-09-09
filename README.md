@@ -10,7 +10,7 @@
 <a href="mailto:muhammadawaisghafoor98@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-awais-28877636a">
+<a href="https://www.linkedin.com/in/muhammadawais98">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/awais_raj98">
