@@ -1,156 +1,319 @@
 <div align="center">
 
-<img src="./dark.svg" width="100%" alt="Muhammad Awais — Full-Stack Developer and AI/ML & RAG Solutions Engineer" />
+# Muhammad Awais
+
+### Full-Stack Developer · AI/ML & RAG Solutions Engineer
+
+Building intelligent solutions, delivering real impact.
 
 <br/>
 
-<a href="https://awais.devxyn.com/">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-awais98">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:muhammadawaisghafoor98@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.instagram.com/awais_raj98">Instagram</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.facebook.com/share/1DwtKGoRcq/">Facebook</a>
+<a href="https://awais.devxyn.com/">
+  <img src="https://img.shields.io/badge/Portfolio-awais.devxyn.com-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:muhammadawaisghafoor98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-awais98">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./light.svg" width="100%" alt="Muhammad Awais — Full-Stack Developer and AI/ML & RAG Solutions Engineer" />
-</picture>
-
-<br/>
+---
 
 ## About
 
-I'm a **Computer Science student at the University of Central Punjab** and a **Full-Stack Developer focused on AI/ML and RAG solutions**.
+I'm a **Computer Science student at the University of Central Punjab** and a Full-Stack Developer focused on **AI/ML, RAG systems, SaaS products, and AI agents**.
 
-I build **web applications, SaaS products, RAG-based AI agents, and practical AI/ML systems** using Python, FastAPI, React.js, Next.js, and LLM APIs.
+I build modern web applications and intelligent software using **Python, FastAPI, React.js, Next.js, Node.js, PostgreSQL, MongoDB, and LLM APIs**.
 
-Currently, I'm contributing to a **medical RAG AI agent** in a production team environment while also working on independent SaaS and client projects.
+Alongside my studies, I've gained professional experience through **AI/ML engineering internships, freelance projects, and independent product development**.
 
-> **Building intelligent software at the intersection of full-stack engineering and AI.**
-
----
-
-## Focus
-
-`Full-Stack Development` · `AI / ML` · `RAG` · `AI Agents` · `SaaS` · `REST APIs`
-
-### Core Stack
-
-**Languages**  
-`Python` `C++` `JavaScript`
-
-**Frontend**  
-`React.js` `Next.js` `Tailwind CSS` `Material UI` `Bootstrap`
-
-**Backend & APIs**  
-`FastAPI` `Node.js` `Express.js` `REST APIs`
-
-**AI / ML**  
-`RAG Pipelines` `NLP` `Model Training` `Fine-tuning` `LLM APIs`
-
-**LLM Providers**  
-`Groq` `Google AI Studio` `Mistral AI` `Cohere`
-
-**Databases**  
-`PostgreSQL` `MongoDB` `MySQL` `Firebase`
-
-**Tools**  
-`GitHub` `WordPress`
+Currently, I'm focused on growing as an **AI-focused software engineer** and building practical, scalable products that solve real-world problems.
 
 ---
 
-## Selected Work
+## What I Build
 
-### Trovio
+```text
+AI / ML
+├── RAG-based AI Systems
+├── AI Agents
+├── NLP Solutions
+├── LLM Integrations
+└── Model Training & Fine-Tuning
+
+Full-Stack Development
+├── SaaS Applications
+├── Modern Web Applications
+├── REST APIs
+├── Backend Systems
+└── Responsive Frontend Interfaces
+
+Product Development
+├── AI-Powered Products
+├── Career Intelligence Platforms
+├── Automation Solutions
+└── End-to-End MVP Development
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" alt="C++"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" alt="React.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="42" alt="Material UI"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="42" alt="Bootstrap"/>
+</p>
+
+### Backend & APIs
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" alt="Express.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" alt="REST APIs"/>
+</p>
+
+### AI / ML
+
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python"/>
+  &nbsp;
+
+  <!-- Add your preferred AI/ML provider logos here if desired -->
+
+  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square" height="32" alt="RAG"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NLP-111111?style=flat-square" height="32" alt="NLP"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square" height="32" alt="AI Agents"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLM%20Integration-111111?style=flat-square" height="32" alt="LLM Integration"/>
+
+</p>
+
+### AI Platforms & APIs
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Groq-111111?style=flat-square" alt="Groq"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mistral%20AI-111111?style=flat-square" alt="Mistral AI"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cohere-111111?style=flat-square" alt="Cohere"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-111111?style=flat-square" alt="Google AI Studio"/>
+
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="42" alt="Firebase"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="42" alt="WordPress"/>
+</p>
+
+---
+
+## Featured Projects
+
+### <img src="./assets/logos/trovio.png" width="34" align="center" alt="Trovio"/> Trovio
+
 **AI-Powered Career Intelligence Platform**
 
-A career platform that aggregates live job listings from **16+ platforms** and adds AI-powered resume matching, skill-demand analysis, and application-content generation.
+Trovio helps users make smarter career decisions through intelligent job discovery, resume matching, market insights, and AI-powered application support.
 
-`Python` `React.js` `AI/ML` `API Integrations`
+**Core Areas**
 
-[View Project](http://trovio.devxyn.com/)
+`Job Intelligence` · `Resume Matching` · `Career Analytics` · `AI Content Generation`
 
 ---
 
-### JobShield
+### <img src="./assets/logos/jobshield.png" width="34" align="center" alt="JobShield"/> JobShield
+
 **AI-Powered Job Scam Detection Platform**
 
-A job-listing analysis platform combining AI/ML, NLP, heuristic pattern matching, model training, and cryptographic blockchain verification.
+A multi-layer platform designed to identify suspicious job opportunities using AI-powered analysis, heuristic pattern matching, and cryptographic verification.
 
-`Python` `AI/ML` `React.js` `NLP`
+**Core Areas**
 
-[View Project](http://jobshield.devxyn.com/)
-
----
-
-### Medi-Health Guide
-**AI/ML · RAG · NLP**
-
-A health-focused AI chatbot agent designed to support patients and general users with health-related queries.
-
-`RAG` `NLP` `AI Agents`
-
-[View Project](http://medihealth.devxyn.com/)
+`AI Detection` · `Heuristic Analysis` · `Job Verification` · `Blockchain`
 
 ---
 
-## Experience
+### <img src="./assets/logos/medi-health-guide.png" width="34" align="center" alt="Medi-Health Guide"/> Medi-Health Guide
 
-**Lead Full-Stack Developer — RAG & SaaS Solutions Engineer**  
-Fiverr · Remote · Present
+**Health-Focused AI Chatbot Agent**
 
-Building and delivering responsive web applications, RAG-based AI agents, and SaaS solutions from requirements through launch.
+An AI-powered conversational system focused on providing intelligent responses through AI/ML, NLP, and retrieval-based techniques.
 
-**AI/ML Engineering Intern**  
-CarbonRepro · Remote · Jun 2026 – Sep 2026
+**Core Areas**
 
-Contributing to a medical RAG-based AI agent using Python and FastAPI, integrating Mistral AI, Cohere, and Groq within a team-based GitHub workflow.
+`AI Agent` · `RAG` · `NLP` · `Conversational AI`
 
-**AI/ML Engineering Intern**  
-Developers Hub · Remote · Apr 2026 – Jun 2026
+---
 
-Worked with Python, FastAPI, model training, AI agents, and API-driven functionality including Groq, Google AI Studio, and Google Calendar.
+## Professional Experience
 
-**Frontend Web Development Intern**  
-DevXcript · Remote · Sep 2025 – Nov 2025
+### <img src="./assets/logos/carbonrepro.png" width="38" align="center" alt="CarbonRepro"/> CarbonRepro
 
-Built responsive web application features using JavaScript, React.js, Context API, and Tailwind CSS.
+**AI/ML Engineering Intern**
+`Jun 2026 – Sep 2026` · Remote
+
+Worked on a medical RAG-based AI agent using Python and FastAPI, integrating modern LLM and retrieval technologies.
+
+**Technologies**
+
+`Python` `FastAPI` `Mistral AI` `Cohere` `Groq` `RAG`
+
+---
+
+### <img src="./assets/logos/developers-hub.png" width="38" align="center" alt="Developers Hub"/> Developers Hub
+
+**AI/ML Engineering Intern**
+`Apr 2026 – Jun 2026` · Remote
+
+Worked on AI/ML solutions, model development, backend APIs, and AI agent integrations.
+
+**Technologies**
+
+`Python` `FastAPI` `AI Agents` `Groq` `Google AI Studio` `Google Calendar API`
+
+---
+
+### <img src="./assets/logos/devxcript.png" width="38" align="center" alt="DevXcript"/> DevXcript
+
+**Frontend Web Development Intern**
+`Sep 2025 – Nov 2025` · Remote
+
+Developed responsive web applications using modern frontend technologies, state management, and reusable components.
+
+**Technologies**
+
+`JavaScript` `React.js` `Context API` `Tailwind CSS`
+
+---
+
+### <img src="./assets/logos/fiverr.png" width="38" align="center" alt="Fiverr"/> Fiverr
+
+**Lead Full-Stack Developer — RAG & SaaS Solutions Engineer**
+`Present` · Remote
+
+Building and delivering full-stack applications, SaaS products, RAG-based AI agents, and custom software solutions for clients.
+
+**Focus**
+
+`Full-Stack Development` `AI/ML` `RAG` `SaaS` `AI Agents`
 
 ---
 
 ## Education
 
-**Bachelor of Science in Computer Science**  
-University of Central Punjab (UCP) · 2023 – 2027 · Expected
+### <img src="./assets/logos/ucp.png" width="48" align="center" alt="University of Central Punjab"/> University of Central Punjab
+
+**BS Computer Science**
+`2023 – 2027`
+
+Focused on computer science fundamentals, software development, artificial intelligence, databases, and practical software engineering.
 
 ---
 
 ## Certifications
 
-`Google` Data Analytics Foundations · `DeepLearning.AI` AI For Everyone · `Google` Cybersecurity Foundations · `Anthropic` Intro to Model Context Protocol · `NASA` Open Science Essentials · `NASA` Open Science 101
+| Issuer                                                                           | Certification                              |
+| -------------------------------------------------------------------------------- | ------------------------------------------ |
+| <img src="./assets/logos/google.png" width="30" alt="Google"/>                   | **Foundations: Data, Data, Everywhere**    |
+| <img src="./assets/logos/deeplearning-ai.png" width="30" alt="DeepLearning.AI"/> | **AI For Everyone**                        |
+| <img src="./assets/logos/google.png" width="30" alt="Google"/>                   | **Foundations of Cybersecurity**           |
+| <img src="./assets/logos/anthropic.png" width="30" alt="Anthropic"/>             | **Introduction to Model Context Protocol** |
+| <img src="./assets/logos/nasa.png" width="30" alt="NASA"/>                       | **Open Science Essentials**                |
+| <img src="./assets/logos/nasa.png" width="30" alt="NASA"/>                       | **Open Science 101**                       |
 
 ---
 
-## Currently Building
+## Currently Focused On
 
-Growing toward becoming an **AI-focused software engineer** capable of designing and building intelligent, scalable products that solve real-world problems.
+```text
+→ Building production-ready AI applications
+→ Developing RAG-based systems and AI agents
+→ Full-stack SaaS development
+→ LLM-powered automation
+→ Improving backend architecture with FastAPI
+→ Growing as an AI-focused software engineer
+```
 
-Open to **internships, full-time opportunities, freelance projects, and collaborations.**
+---
+
+## Let's Build Something
+
+I'm open to:
+
+`Internships` · `Full-Time Opportunities` · `Freelance Projects` · `AI/ML Collaborations`
 
 <br/>
 
 <div align="center">
 
-<a href="https://awais.devxyn.com/">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-awais98">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:muhammadawaisghafoor98@gmail.com">Let's build something useful.</a>
+<a href="https://awais.devxyn.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-awais98">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:muhammadawaisghafoor98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AWAIS0335&style=flat-square&color=111111" alt="Profile Views"/>
 
 </div>
