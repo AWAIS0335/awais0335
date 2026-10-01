@@ -1,180 +1,156 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="header" />
+<img src="./dark.svg" width="100%" alt="Muhammad Awais — Full-Stack Developer and AI/ML & RAG Solutions Engineer" />
 
 <br/>
 
-<a href="https://awais.devxyn.com/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" />
-</a>
-<a href="mailto:muhammadawaisghafoor98@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/muhammadawais98">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/awais_raj98">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/share/1DwtKGoRcq/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+<a href="https://awais.devxyn.com/">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-awais98">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:muhammadawaisghafoor98@gmail.com">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.instagram.com/awais_raj98">Instagram</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1DwtKGoRcq/">Facebook</a>
 
 </div>
 
-### 👋 About Me
-
-- 🚀 Currently building **Kissan Dost**, **Trovio**, and **Medibot** → [devxyn.com](http://devxyn.com/)
-- 🧠 Currently learning **AI / Machine Learning** and deepening my RAG pipeline skills
-- 🤝 Open to collaborating on **SaaS products** and **AI Automation** projects
-- 🎓 BS Computer Science @ University of Central Punjab (UCP) — Expected 2027
-- 💼 Currently: **AI/ML Engineering Intern @ CarbonRepro** (US-based, Remote) — working on a medical RAG AI agent
-- 📫 Reach me at **muhammadawaisghafoor98@gmail.com**
-- 🌐 All projects: [awais.devxyn.com](https://awais.devxyn.com/)
-
-<div align="center">
-
-<img width="220" src="./assets/badge.svg" alt="developer badge" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./light.svg" width="100%" alt="Muhammad Awais — Full-Stack Developer and AI/ML & RAG Solutions Engineer" />
+</picture>
 
 <br/>
 
-### 🛠️ Tech Stack
+## About
 
-<div align="center">
+I'm a **Computer Science student at the University of Central Punjab** and a **Full-Stack Developer focused on AI/ML and RAG solutions**.
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" />
+I build **web applications, SaaS products, RAG-based AI agents, and practical AI/ML systems** using Python, FastAPI, React.js, Next.js, and LLM APIs.
 
-<br/>
+Currently, I'm contributing to a **medical RAG AI agent** in a production team environment while also working on independent SaaS and client projects.
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui&theme=dark" />
+> **Building intelligent software at the intersection of full-stack engineering and AI.**
 
-<br/>
+---
 
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
+## Focus
 
-<br/>
+`Full-Stack Development` · `AI / ML` · `RAG` · `AI Agents` · `SaaS` · `REST APIs`
 
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" />
+### Core Stack
 
-<br/>
+**Languages**  
+`Python` `C++` `JavaScript`
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase&theme=dark" />
+**Frontend**  
+`React.js` `Next.js` `Tailwind CSS` `Material UI` `Bootstrap`
 
-<br/>
+**Backend & APIs**  
+`FastAPI` `Node.js` `Express.js` `REST APIs`
 
-**Tools & Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=github,wordpress,figma,vercel,netlify&theme=dark" />
+**AI / ML**  
+`RAG Pipelines` `NLP` `Model Training` `Fine-tuning` `LLM APIs`
 
-</div>
+**LLM Providers**  
+`Groq` `Google AI Studio` `Mistral AI` `Cohere`
 
-<br/>
+**Databases**  
+`PostgreSQL` `MongoDB` `MySQL` `Firebase`
 
-## 🚧 Featured Projects
+**Tools**  
+`GitHub` `WordPress`
 
-<div align="center">
+---
 
-### 🎯 Trovio — AI-Powered Career Intelligence Platform
+## Selected Work
 
-<img src="./assets/Trovio.jpg" width="420" alt="Trovio preview" />
+### Trovio
+**AI-Powered Career Intelligence Platform**
 
-Job search aggregator pulling live listings from **16+ platforms** into one unified interface, with AI resume match scoring, a skill-demand radar, and AI-generated cover letters.
+A career platform that aggregates live job listings from **16+ platforms** and adds AI-powered resume matching, skill-demand analysis, and application-content generation.
 
-`Python` `React.js` `API Integrations` `AI/ML`
+`Python` `React.js` `AI/ML` `API Integrations`
 
-[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](http://trovio.devxyn.com/)
+[View Project](http://trovio.devxyn.com/)
 
-<br/>
+---
 
-### 🛡️ JobShield — AI-Powered Job Scam Detection
+### JobShield
+**AI-Powered Job Scam Detection Platform**
 
-<img src="./assets/jobshield.png" width="420" alt="JobShield preview" />
+A job-listing analysis platform combining AI/ML, NLP, heuristic pattern matching, model training, and cryptographic blockchain verification.
 
-Analyzes job listings in seconds via a multi-layer AI + heuristic pattern-matching pipeline, with blockchain verification to expose fake recruiters and scams.
+`Python` `AI/ML` `React.js` `NLP`
 
-`Python` `AI/ML` `React.js` `NLP` `Model Training`
+[View Project](http://jobshield.devxyn.com/)
 
-[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](http://jobshield.devxyn.com/)
+---
 
-<br/>
+### Medi-Health Guide
+**AI/ML · RAG · NLP**
 
-### 🩺 Medi-Health Guide — AI/ML, RAG, NLP
-
-<img src="./assets/medihealth.avif" width="420" alt="Medi-Health Guide preview" />
-
-Health-focused AI chatbot agent supporting patients and general users with health-related queries, built with clear CTAs and an SEO-friendly structure.
+A health-focused AI chatbot agent designed to support patients and general users with health-related queries.
 
 `RAG` `NLP` `AI Agents`
 
-[![Live](https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](http://medihealth.devxyn.com/)
+[View Project](http://medihealth.devxyn.com/)
 
-<br/>
+---
 
-### 🌾 Kissan Dost — Digital Revolution for Farmers
+## Experience
 
-<img src="./assets/kissandost.png.jpeg" width="420" alt="Kissan Dost preview" />
+**Lead Full-Stack Developer — RAG & SaaS Solutions Engineer**  
+Fiverr · Remote · Present
 
-Collaborated at: [takhleeq.co](https://takhleeq.co/)
-Empowering farmers with accurate information, solving daily agricultural problems, and eliminating middleman exploitation to boost Pakistan's agriculture.
+Building and delivering responsive web applications, RAG-based AI agents, and SaaS solutions from requirements through launch.
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=progress)
+**AI/ML Engineering Intern**  
+CarbonRepro · Remote · Jun 2026 – Sep 2026
 
-`Python` `React.js`
+Contributing to a medical RAG-based AI agent using Python and FastAPI, integrating Mistral AI, Cohere, and Groq within a team-based GitHub workflow.
 
-</div>
+**AI/ML Engineering Intern**  
+Developers Hub · Remote · Apr 2026 – Jun 2026
 
-<br/>
+Worked with Python, FastAPI, model training, AI agents, and API-driven functionality including Groq, Google AI Studio, and Google Calendar.
 
-## 💼 Experience
+**Frontend Web Development Intern**  
+DevXcript · Remote · Sep 2025 – Nov 2025
 
-- **Lead Full-Stack Developer — RAG & SaaS Solutions Engineer**, Fiverr (Remote) — *Present*
-- **AI/ML Engineering Intern**, CarbonRepro (US-based, Remote) — *Jun 2026 – Present*
-- **AI/ML Engineering Intern**, Developers Hub (Remote) — *Apr 2026 – Jun 2026*
-- **Frontend Web Development Intern**, DevXcript (Remote) — *Sep 2025 – Nov 2025*
+Built responsive web application features using JavaScript, React.js, Context API, and Tailwind CSS.
 
-<br/>
+---
 
-## 📊 GitHub Stats
+## Education
 
-<div align="center">
+**Bachelor of Science in Computer Science**  
+University of Central Punjab (UCP) · 2023 – 2027 · Expected
 
-<img src="https://github-readme-stats.shion.dev/api?username=AWAIS0335&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="480" />
+---
 
-<img src="https://streak-stats.demolab.com/?user=AWAIS0335&theme=tokyonight&hide_border=true" width="480" />
+## Certifications
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AWAIS0335&layout=compact&theme=tokyonight&hide_border=true" width="480" />
+`Google` Data Analytics Foundations · `DeepLearning.AI` AI For Everyone · `Google` Cybersecurity Foundations · `Anthropic` Intro to Model Context Protocol · `NASA` Open Science Essentials · `NASA` Open Science 101
 
-</div>
+---
 
-<br/>
+## Currently Building
 
-## 🏆 Achievements
+Growing toward becoming an **AI-focused software engineer** capable of designing and building intelligent, scalable products that solve real-world problems.
 
-<div align="center">
-
-<img src="./assets/trophies.svg" width="100%" alt="achievements" />
-
-</div>
+Open to **internships, full-time opportunities, freelance projects, and collaborations.**
 
 <br/>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AWAIS0335&color=6366F1&style=flat-square)](https://visitcount.itsvg.in)
-
-**Thanks for stopping by — let's build something great together! 💜**
+<a href="https://awais.devxyn.com/">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-awais98">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:muhammadawaisghafoor98@gmail.com">Let's build something useful.</a>
 
 </div>
