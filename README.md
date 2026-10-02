@@ -159,7 +159,7 @@ Product Development
 
 ## Featured Projects
 
-### <img src="./assets/logos/TROVYO-LOGO.png" width="34" align="center" alt="Trovio"/> Trovio
+### <img src=".assets/TROVYO-LOGO.png" width="34" align="center" alt="Trovio"/> Trovio
 
 **AI-Powered Career Intelligence Platform**
 
