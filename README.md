@@ -171,7 +171,7 @@ Trovio helps users make smarter career decisions through intelligent job discove
 
 ---
 
-### <img src="./assets/logos/jobshield.png" width="34" align="center" alt="JobShield"/> JobShield
+### <img src="assets/TROVYO-LOGO.png" width="34" align="center" alt="JobShield"/> JobShield
 
 **AI-Powered Job Scam Detection Platform**
 
