@@ -171,7 +171,7 @@ Trovio helps users make smarter career decisions through intelligent job discove
 
 ---
 
-### <img src="assets/TROVYO-LOGO.png" width="34" align="center" alt="JobShield"/> JobShield
+### <img src="assets/Job_Shield_logo.png" width="34" align="center" alt="JobShield"/> JobShield
 
 **AI-Powered Job Scam Detection Platform**
 
@@ -183,7 +183,7 @@ A multi-layer platform designed to identify suspicious job opportunities using A
 
 ---
 
-### <img src="./assets/logos/medi-health-guide.png" width="34" align="center" alt="Medi-Health Guide"/> Medi-Health Guide
+### <img src="/assets/medi-health-logo.png" width="34" align="center" alt="Medi-Health Guide"/> Medi-Health Guide
 
 **Health-Focused AI Chatbot Agent**
 
@@ -197,7 +197,7 @@ An AI-powered conversational system focused on providing intelligent responses t
 
 ## Professional Experience
 
-### <img src="./assets/logos/carbonrepro.png" width="38" align="center" alt="CarbonRepro"/> CarbonRepro
+### <img src="/assets/carbonrepro-logo.png" width="38" align="center" alt="CarbonRepro"/> CarbonRepro
 
 **AI/ML Engineering Intern**
 `Jun 2026 – Sep 2026` · Remote
@@ -210,7 +210,7 @@ Worked on a medical RAG-based AI agent using Python and FastAPI, integrating mod
 
 ---
 
-### <img src="./assets/logos/developers-hub.png" width="38" align="center" alt="Developers Hub"/> Developers Hub
+### <img src="/assets/developershub-logo.png" width="38" align="center" alt="Developers Hub"/> Developers Hub
 
 **AI/ML Engineering Intern**
 `Apr 2026 – Jun 2026` · Remote
@@ -223,7 +223,7 @@ Worked on AI/ML solutions, model development, backend APIs, and AI agent integra
 
 ---
 
-### <img src="./assets/logos/devxcript.png" width="38" align="center" alt="DevXcript"/> DevXcript
+### <img src="/assets/devxcript-logo.png" width="38" align="center" alt="DevXcript"/> DevXcript
 
 **Frontend Web Development Intern**
 `Sep 2025 – Nov 2025` · Remote
@@ -236,7 +236,7 @@ Developed responsive web applications using modern frontend technologies, state 
 
 ---
 
-### <img src="./assets/logos/fiverr.png" width="38" align="center" alt="Fiverr"/> Fiverr
+### <img src="/assets/Fiverr-Logo.png" width="38" align="center" alt="Fiverr"/> Fiverr
 
 **Lead Full-Stack Developer — RAG & SaaS Solutions Engineer**
 `Present` · Remote
@@ -251,7 +251,7 @@ Building and delivering full-stack applications, SaaS products, RAG-based AI age
 
 ## Education
 
-### <img src="./assets/logos/ucp.png" width="48" align="center" alt="University of Central Punjab"/> University of Central Punjab
+### <img src="/assets/ucp logo.png" width="48" align="center" alt="University of Central Punjab"/> University of Central Punjab
 
 **BS Computer Science**
 `2023 – 2027`
@@ -264,12 +264,12 @@ Focused on computer science fundamentals, software development, artificial intel
 
 | Issuer                                                                           | Certification                              |
 | -------------------------------------------------------------------------------- | ------------------------------------------ |
-| <img src="./assets/logos/google.png" width="30" alt="Google"/>                   | **Foundations: Data, Data, Everywhere**    |
-| <img src="./assets/logos/deeplearning-ai.png" width="30" alt="DeepLearning.AI"/> | **AI For Everyone**                        |
-| <img src="./assets/logos/google.png" width="30" alt="Google"/>                   | **Foundations of Cybersecurity**           |
-| <img src="./assets/logos/anthropic.png" width="30" alt="Anthropic"/>             | **Introduction to Model Context Protocol** |
-| <img src="./assets/logos/nasa.png" width="30" alt="NASA"/>                       | **Open Science Essentials**                |
-| <img src="./assets/logos/nasa.png" width="30" alt="NASA"/>                       | **Open Science 101**                       |
+| <img src="/assets/google.png" width="30" alt="Google"/>                   | **Foundations: Data, Data, Everywhere**    |
+| <img src="/assets/deeplearningai.png" width="30" alt="DeepLearning.AI"/> | **AI For Everyone**                        |
+| <img src="/assets/google.png" width="30" alt="Google"/>                   | **Foundations of Cybersecurity**           |
+| <img src="/assets/anthropic.png" width="30" alt="Anthropic"/>             | **Introduction to Model Context Protocol** |
+| <img src="/assets/nasa.jpeg" width="30" alt="NASA"/>                       | **Open Science Essentials**                |
+| <img src="/assets/nasa.jpeg" width="30" alt="NASA"/>                       | **Open Science 101**                       |
 
 ---
 
