@@ -268,8 +268,8 @@ Focused on computer science fundamentals, software development, artificial intel
 | <img src="/assets/deeplearningai.png" width="30" alt="DeepLearning.AI"/> | **AI For Everyone**                        |
 | <img src="/assets/google.png" width="30" alt="Google"/>                   | **Foundations of Cybersecurity**           |
 | <img src="/assets/anthropic.png" width="30" alt="Anthropic"/>             | **Introduction to Model Context Protocol** |
-| <img src="/assets/nasa.jpeg" width="30" alt="NASA"/>                       | **Open Science Essentials**                |
-| <img src="/assets/nasa.jpeg" width="30" alt="NASA"/>                       | **Open Science 101**                       |
+| <img src="assets/nasa.jfif" width="30" alt="NASA"/>                       | **Open Science Essentials**                |
+| <img src="assets/nasa.jfif" width="30" alt="NASA"/>                       | **Open Science 101**                       |
 
 ---
 
