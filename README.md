@@ -16,7 +16,7 @@ Building intelligent solutions, delivering real impact.
   <img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/muhammad-awais98">
+<a href="https://www.linkedin.com/in/muhammadawais98">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -159,7 +159,7 @@ Product Development
 
 ## Featured Projects
 
-### <img src="./assets/logos/trovio.png" width="34" align="center" alt="Trovio"/> Trovio
+### <img src="./assets/logos/TROVYO-LOGO.png" width="34" align="center" alt="Trovio"/> Trovio
 
 **AI-Powered Career Intelligence Platform**
 
